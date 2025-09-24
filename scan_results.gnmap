@@ -1,0 +1,9 @@
+
+# Nmap 7.98 scan initiated Mon Sep 22 14:16:54 2025 as: nmap -sS -sV -sC -oN scan_results.txt -oX scan_result.xml -oG scan_results.gnmap xxx.xxx.xxx.xxx/24
+Host: 10.60.108.70 ()	Status: Up
+Host: 10.60.108.70 ()	Ports: 53/open/tcp//domain//SOFTWARE_REDACTED/	Ignored State: closed (999)
+Host: 10.60.108.117 ()	Status: Up
+Host: 10.60.108.117 ()	Ports: 	Ignored State: closed (1000)
+Host: xxx.xxx.xxx.xxx ()	Status: Up
+Host: xxx.xxx.xxx.xxx ()	Ports: 135/open/tcp//msrpc//Microsoft Windows RPC/, 139/open/tcp//netbios-ssn//Microsoft Windows netbios-ssn/, 445/open/tcp//microsoft-ds?///, 3306/open/tcp//mysql//MySQL (unauthorized)/, 9999/open/tcp//abyss?///	Ignored State: closed (995)
+# Nmap done at Mon Sep 22 14:17:45 2025 -- 256 IP addresses (3 hosts up) scanned in 50.27 seconds
