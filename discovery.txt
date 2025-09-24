@@ -1,0 +1,10 @@
+# Nmap 7.98 scan initiated Mon Sep 22 14:14:41 2025 as: nmap -sn -oN discovery.txt xxx.xxx.xxx.xxx/24
+Nmap scan report for 10.60.108.70
+Host is up (0.014s latency).
+MAC Address: MAC_REDACTED (Unknown)
+Nmap scan report for 10.60.108.117
+Host is up (0.39s latency).
+MAC Address: MAC_REDACTED (Unknown)
+Nmap scan report for xxx.xxx.xxx.xxxx
+Host is up.
+# Nmap done at Mon Sep 22 14:14:49 2025 -- 256 IP addresses (3 hosts up) scanned in 8.53 seconds
