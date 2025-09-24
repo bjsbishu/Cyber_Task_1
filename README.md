@@ -1,5 +1,6 @@
 # Cyber_Task_1
 Cyber Task 1 - Port scanning
+
 Summary
 
 Performed port scanning on my home network (xxx.xxx.xxx.xxx/24) using Nmap to discover live host, open ports, and services. All scanning was performed only on devices I own.
